@@ -4,12 +4,12 @@ from twython import Twython
 import argparse
 
 
-App_Key = 'HN5NhZPaXgNZQf05Se9S6oaj4'
-App_Secret = 'msCNUjoAG1hzD2cL46MOpdGWEd75Obrz7XMtFny5cs7LYp9wA5'
+App_Key = 'Your App Key'
+App_Secret = 'Your App Secret'
 # twitter = Twython(App_Key, App_Secret)
 # auth = twitter.get_authentication_tokens()
-Access_Token = '949862289108361216-rgxLJ7u4keWwe236J0D0J2MJ2r4SGBk'
-Access_Secret = 'lHZXHEq3uTh8Topah8rPXr8b9cuHBzOJQkf5ZEQAuu7F0'
+Access_Token = 'Your App Token'
+Access_Secret = 'Your App Token Secret'
 twit = Twython(App_Key, App_Secret, Access_Token, Access_Secret)
 
 
