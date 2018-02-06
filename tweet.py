@@ -53,6 +53,6 @@ def follow_user(user):
 # text = sys.argv[1]
 # search_type = sys.argv[2]
 # search('python', 'None')
-# user_timeline('nithyanandh')
-# update_status("@ShreyasSF Check2")
-follow_user("nithyanandh")
+# user_timeline('username')
+# update_status("@username Status")
+follow_user("username")
